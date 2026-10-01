@@ -24,7 +24,7 @@ se crea preset de las escaleras para mayor facilidad de modificacion al modifica
 
 se crean presets de rocas decorativas para las esquinas de las piedras
 
-<img width="1593" height="983" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/b697b39f-a6a2-4d7f-97d8-148678ef4102" />
+<img width="1573" height="971" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/e160e878-4b9b-40ab-8274-2802e26dfca6" />
 
 se decora con arboles de el envirionment pack gratuito del unity asset store
 link de assets: https://assetstore.unity.com/packages/3d/vegetation/environment-pack-free-forest-sample-168396
