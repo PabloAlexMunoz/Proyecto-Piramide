@@ -1,5 +1,7 @@
 # Proyecto-Piramide
 
+### Pasos seguidos durante la creacion del proyecto con imagenes
+
 Se importa el terreno que se usará para la piramide.
 
 <img width="1599" height="983" alt="Screenshot (497)" src="https://github.com/user-attachments/assets/06e327c5-86fa-4669-bc0b-582225c17a52" />
@@ -33,3 +35,10 @@ link de assets: https://assetstore.unity.com/packages/3d/vegetation/environment-
 
 <img width="1600" height="978" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/66c2b6de-6b9b-47bf-9af1-f8cabcd2d697" />
 
+### Historia corta sobre el videojuego hipotetico
+
+  historia aqui
+
+### Pensamientos finales
+
+  Este proyecto nos ayudó a entender el proceso de creación de un entorno simple en un videojuego. Fue interesante tomar un terreno ya existente y modificarlo para las necesidades del proyecto. La tienda de assets de unity fue interesante de explorar y la variedad que algunos de los gratuitos poseen es increible. Ademas de esto lo  que es posible hacer con assets basicos abre puertas para mucha creatividad.
