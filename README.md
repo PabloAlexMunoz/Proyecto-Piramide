@@ -27,6 +27,8 @@ se crean presets de rocas decorativas para las esquinas de las piedras
 <img width="1573" height="971" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/e160e878-4b9b-40ab-8274-2802e26dfca6" />
 
 se decora con arboles de el envirionment pack gratuito del unity asset store
+
+
 link de assets: https://assetstore.unity.com/packages/3d/vegetation/environment-pack-free-forest-sample-168396
 
 <img width="1600" height="978" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/66c2b6de-6b9b-47bf-9af1-f8cabcd2d697" />
