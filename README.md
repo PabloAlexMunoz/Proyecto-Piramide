@@ -41,4 +41,4 @@ link de assets: https://assetstore.unity.com/packages/3d/vegetation/environment-
 
 ### Pensamientos finales
 
-    Este proyecto nos ayudó a entender el proceso de creación de un entorno simple en un videojuego. Fue interesante tomar un terreno ya existente y modificarlo para las necesidades del proyecto. La tienda de assets de unity fue interesante de explorar y la variedad que algunos de los gratuitos poseen es increible. Ademas de esto lo  que es posible hacer con assets basicos abre puertas para mucha creatividad.
+Este proyecto nos ayudó a entender el proceso de creación de un entorno simple en un videojuego. Fue interesante tomar un terreno ya existente y modificarlo para las necesidades del proyecto. La tienda de assets de unity fue interesante de explorar y la variedad que algunos de los gratuitos poseen es increible. Ademas de esto lo  que es posible hacer con assets basicos abre puertas para mucha creatividad.
