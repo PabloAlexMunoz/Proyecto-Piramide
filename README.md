@@ -35,12 +35,33 @@ link de assets: https://assetstore.unity.com/packages/3d/vegetation/environment-
 
 <img width="1600" height="978" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/66c2b6de-6b9b-47bf-9af1-f8cabcd2d697" />
 
+
+Creacion del Caracol aproximado
+
+![alt text](image.png)
+
+Utilizacion de Probuilder para creacion de assets- Escaleras, Plataformas y Edificios
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+Humano con Robot
+
+![alt text](image-3.png)
+
 ### Historia corta sobre el videojuego hipotetico
 
-  historia aqui
+Desde un tiempo desconocido, hubo una civilización cuyos residentes son referidos como robots por los habitantes del planeta tierra. Esta civilización es una expansionista, conquistando planetas cuyo les capta el interés. Debido a la grandeza y edad de esta, también se ven facciones en esta, con las que nos interesemos en una, esta será una facción que va en contra del expansionismo de los lideres.
+
+Debido a conflictos violentos, se encontró un escuadrón de robots de esta facción en un valle localizado en centro América. Estos robots, con una disposición mas pasiva a de sus compatriotas, se unieron a manos con los humanos que se encontraron ahí. Con el motivo de tener buenas relaciones con los nativos y poder recuperarse, ayudaron en la creación de edificios como sus grandes pirámides. En unos años estas dos civilizaciones se encuentran con una relación amistosa, pero no se mantendrán justas por siempre.
+
+Debido a la naturaleza de la llegada de estos robots a el planeta los expansionistas se encuentran con el conocimiento de este
+planeta, y sus potenciales recursos. Es por eso por lo que está en el interés de los que están en el planeta a recuperarse lo mas temprano posible para que puedan entrar en contacto con su facción libertaria y tal vez proteger el planeta y sus habitantes de se explotados por sus recursos. ¿Podrán cumplir con sus deseos o serán menos que una nota en la historia de la gran civilización de que nacieron?
+	
 
 ### Pensamientos finales
 
 Pablo: Este proyecto nos ayudó a entender el proceso de creación de un entorno simple en un videojuego. Fue interesante tomar un terreno ya existente y modificarlo para las necesidades del proyecto. La tienda de assets de unity fue interesante de explorar y la variedad que algunos de los gratuitos poseen es increible. Ademas de esto lo  que es posible hacer con assets basicos abre puertas para mucha creatividad.
 
-Christopher: 
+Christopher: En adicion de entender el proceso de creacion de un entorno, tambien ayudo con la utilizacion de tools para proyectos. En el caso de este, probuilder funciona para la creacion de formas basicas para hacer bases para otros objetos mas complicados. Finalmente este proyecto ejercio pensamiento creativo en mezclar robots con los mayanos.
