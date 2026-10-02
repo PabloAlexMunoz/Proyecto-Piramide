@@ -50,6 +50,9 @@ Humano con Robot
 
 ![alt text](image-3.png)
 
+Link de assets: https://assetstore.unity.com/packages/3d/characters/modular-fantasy-character-165896
+https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154
+
 ### Historia corta sobre el videojuego hipotetico
 
 Desde un tiempo desconocido, hubo una civilización cuyos residentes son referidos como robots por los habitantes del planeta tierra. Esta civilización es una expansionista, conquistando planetas cuyo les capta el interés. Debido a la grandeza y edad de esta, también se ven facciones en esta, con las que nos interesemos en una, esta será una facción que va en contra del expansionismo de los lideres.
